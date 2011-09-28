@@ -1,7 +1,6 @@
-
 development:
   adapter: sqlite3
-  database: ./db/braziljs.db
+  database: ./braziljs.db
   
 production:
   encoding: unicode
